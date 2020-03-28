@@ -1,0 +1,65 @@
+{
+    "home-title": "Be informed on the best way to protect yourself from Coronavirus",
+    "symtoms": {
+        "title": "Symptoms",
+        "source": ["World Health Organization (WHO)", "Centers for Diseases Control (CDC)"],
+        "descripton": "COVID-19 is a respiratory disease and most infected people will develop mild to moderate symptoms and recover without requiring special treatment.  People who have underlying medical conditions and those over 60 years old have a higher risk of developing severe disease and death. People may be sick with the virus for 1 to 14 days before developing symptoms. The most common symptoms of coronavirus disease (COVID-19) are fever, tiredness, and dry cough.",
+        "icon": "address to icon here",
+        "common_title": "Common Symptoms",
+        "symptom_one": "Fever",
+        "symptom_one_img": "",
+        "symptom_two": "Tiredness",
+        "symptom_two_img": "",
+        "symptom_three": "Dry cough",
+        "symptom_three_img": "",
+        "other_title": "Other Symptoms",
+        "symptom_four": "Shortnes of breath",
+        "symptom_four_img": "",
+        "symptom_five": "Aches and pains",
+        "symptom_five_img": "",
+        "symptom_six": "Sore throat",
+        "symptom_six_img": "",
+        "symptom_seven": "Very few people will report diarrhoea, nausea or a runny nose",
+        "symptom_seven_img": ""
+    },
+    "prevention": {
+        "title": "Prevention",
+        "source": ["World Health Organization (WHO)", "Centers for Diseases Control (CDC)"],
+        "description": "To prevent transmission of COVID-19:",
+        "preventions": [
+            "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.",
+            "Maintain at least 1 metre distance between you and people coughing or sneezing.",
+            "Avoid touching your face.",
+            "Cover your mouth and nose when coughing or sneezing.",
+            "Stay home if you feel unwell.",
+            "Refrain from smoking and other activities that weaken the lungs.",
+            "Practice physical distancing by avoiding unnecessary travel and staying away from large groups of people."
+        ],
+        "more_link": "https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html"
+    },
+    "risk": {
+        "title": "People at higher risk for severe illness",
+        "source": ["Centers for Diseases Control (CDC)"],
+        "descr": "Older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from COVID-19.",
+        "risk_one": "Pregnant Women",
+        "risk_one_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html",
+        "risk_two": "Older Adults",
+        "risk_two_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications/older-adults.html",
+        "risk_three": "People with HIV",
+        "risk_three_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/hiv.html",
+        "risk_four": "People with Asthma",
+        "risk_four_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/asthma.html",
+        "risk_five": "Prevent getting sick",
+        "risk_five_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/get-ready.html"
+    },
+    "support": {
+        "title": "Support the fight against COVID-19",
+        "source": ["Ministy of Public Health"],
+        "description": "Support the Ministy of Public health in fighting COVID-19 in Cameroon",
+        "contact_title": "Emergency contacts",
+        "contacts": ["1510", "677 89 93 69", "677 89 43 64", "677 89 76 44", "677 90 01 57"],
+        "support": "Donate to support the cause",
+        "support_descr": "Visit the Ministry of Public Health for account information",
+        "support_link": "https://www.minsante.cm/site/?q=fr/content/coronavirus-covid-19-cameroun-soutenez-la-lutte-les-num%C3%A9ros-utiles"
+    }
+}

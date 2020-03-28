@@ -1,0 +1,14 @@
+{
+    "title": "Statistics",
+    "desctiption": "This statistics is on the current cases ",
+    "cases": "Cases",
+    "death": "Death",
+    "recovered": "Recovered",
+    "todayDeath": "Today's Death",
+    "todayCases": "Today's Cases",
+    "activecases": "Active Cases",
+    "allcase": "Total Cases",
+    "allRecovered": "Total Recovered",
+    "allDeath": "Total Death",
+    "allUpdated": "Updated"
+}
