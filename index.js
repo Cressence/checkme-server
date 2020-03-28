@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 const home_en = require('./src/home_en.json');
 const help_en = require('./src/help_en.json');
