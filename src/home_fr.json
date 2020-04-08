@@ -1,0 +1,64 @@
+{
+    "home-title": "Soyez informé de la meilleure façon de vous protéger contre le coronavirus",
+    "symtoms": {
+        "title": "Symptômes",
+        "source": ["Organisation Mondiale de la Santé (OMS)", "Centres de Contrôle des Maladies (CDC)"],
+        "descripton": "COVID-19 est une maladie respiratoire et la plupart des personnes infectées développeront des symptômes légers à modérés et se rétabliront sans nécessiter de traitement spécial.  Les personnes qui ont des conditions médicales sous-jacentes et celles de plus de 60 ans ont un risque plus élevé de développer une maladie grave et la mort. Les gens peuvent être malades du virus pendant 1 à 14 jours avant de développer des symptômes. Les symptômes les plus courants de la maladie coronavirus (COVID-19) sont la fièvre, la fatigue et la toux sèche.",
+        "icon": "address to icon here",
+        "common_title": "Symptômes courants",
+        "symptom_one": "Fièvre",
+        "symptom_one_img": "https://raw.githubusercontent.com/Cressence/images/master/fever.png",
+        "symptom_two": "Fatigue",
+        "symptom_two_img": "https://raw.githubusercontent.com/Cressence/images/master/tiredness.png",
+        "symptom_three": "Toux sèche",
+        "symptom_three_img": "https://raw.githubusercontent.com/Cressence/images/master/cough.png",
+        "other_title": "Autres symptômes",
+        "symptom_four": "Essoufflement",
+        "symptom_four_img": "https://raw.githubusercontent.com/Cressence/images/master/shortness.png",
+        "symptom_five": "Maux et douleurs",
+        "symptom_five_img": "https://raw.githubusercontent.com/Cressence/images/master/pain.png",
+        "symptom_six": "Gorge irritée",
+        "symptom_six_img": "https://raw.githubusercontent.com/Cressence/images/master/sore.png",
+        "symptom_seven": "Très peu de personnes rapporteront de la diarrhée, des nausées ou un écoulement nasal",
+    },
+    "prevention": {
+        "title": "La prévention",
+        "source": ["Organisation Mondiale de la Santé (OMS)", "Centres de Contrôle des Maladies (CDC)"],
+        "description": "Pour empêcher la transmission de COVID-19:",
+        "preventions": [
+            "Lavez-vous les mains régulièrement avec du savon et de l'eau ou nettoyez-les avec un désinfectant pour les mains à base d'alcool.",
+            "Maintenez une distance d'au moins 1 mètre entre vous et les personnes qui toussent ou éternuent.",
+            "Évitez de toucher votre visage.",
+            "Couvrez-vous la bouche et le nez lorsque vous toussez ou éternuez.",
+            "Restez à la maison si vous ne vous sentez pas bien.",
+            "Abstenez-vous de fumer et d'autres activités qui affaiblissent les poumons.",
+            "Pratiquez la distance physique en évitant les déplacements inutiles et en vous éloignant des grands groupes de personnes."
+        ],
+        "more_link": "https://www.cdc.gov/coronavirus/2019-ncov/prepare/prevention.html"
+    },
+    "risk": {
+        "title": "Les personnes plus à risque de contracter cette maladie",
+        "source": ["Centres de Contrôle des Maladies (CDC)"],
+        "descr": "Les personnes âgées et les personnes de tout âge qui ont de graves problèmes de santé sous-jacents peuvent être plus à risque de complications plus graves liées à COVID-19.",
+        "risk_one": "Femmes enceintes",
+        "risk_one_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html",
+        "risk_two": "Adultes plus âgés",
+        "risk_two_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications/older-adults.html",
+        "risk_three": "Les personnes vivant avec le VIH",
+        "risk_three_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/hiv.html",
+        "risk_four": "Les personnes asthmatiques",
+        "risk_four_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/asthma.html",
+        "risk_five": "Évitez de tomber malade",
+        "risk_five_link": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/get-ready.html"
+    },
+    "support": {
+        "title": "Soutenez la lutte contre COVID-19",
+        "source": ["Ministère de la Santé Publique"],
+        "description": "Soutenir le ministère de la Santé publique dans la lutte contre le COVID-19 au Cameroun",
+        "contact_title": "Contacts d'urgence",
+        "contacts": ["1510", "677 89 93 69", "677 89 43 64", "677 89 76 44", "677 90 01 57"],
+        "support": "Faites un don pour soutenir la cause",
+        "support_descr": "Visitez le ministère de la Santé publique pour obtenir des informations sur le compte",
+        "support_link": "https://www.minsante.cm/site/?q=fr/content/coronavirus-covid-19-cameroun-soutenez-la-lutte-les-num%C3%A9ros-utiles"
+    }
+}

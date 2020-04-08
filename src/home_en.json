@@ -13,13 +13,13 @@
         "symptom_three": "Dry cough",
         "symptom_three_img": "",
         "other_title": "Other Symptoms",
-        "symptom_four": "Shortnes of breath",
+        "symptom_four": "Shortness of breath",
         "symptom_four_img": "",
         "symptom_five": "Aches and pains",
         "symptom_five_img": "",
         "symptom_six": "Sore throat",
         "symptom_six_img": "",
-        "symptom_seven": "Very few people will report diarrhoea, nausea or a runny nose",
+        "symptom_seven": "Very few people will report diarrhea, nausea or a runny nose",
         "symptom_seven_img": ""
     },
     "prevention": {
@@ -28,7 +28,7 @@
         "description": "To prevent transmission of COVID-19:",
         "preventions": [
             "Wash your hands regularly with soap and water, or clean them with alcohol-based hand rub.",
-            "Maintain at least 1 metre distance between you and people coughing or sneezing.",
+            "Maintain at least 1-meter distance between you and people coughing or sneezing.",
             "Avoid touching your face.",
             "Cover your mouth and nose when coughing or sneezing.",
             "Stay home if you feel unwell.",
@@ -55,7 +55,7 @@
     "support": {
         "title": "Support the fight against COVID-19",
         "source": ["Ministy of Public Health"],
-        "description": "Support the Ministy of Public health in fighting COVID-19 in Cameroon",
+        "description": "Support the Ministry of Public health in fighting COVID-19 in Cameroon",
         "contact_title": "Emergency contacts",
         "contacts": ["1510", "677 89 93 69", "677 89 43 64", "677 89 76 44", "677 90 01 57"],
         "support": "Donate to support the cause",
