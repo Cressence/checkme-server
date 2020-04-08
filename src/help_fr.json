@@ -1,0 +1,24 @@
+{
+    "help_title": "Contact d'urgence et Ressources",
+    "help_img": "",
+    "emergency": {
+        "title": "Contact",
+        "description": "Contact d'urgence au Cameroun",
+        "contacts": ["1510", "677 89 93 69", "677 89 43 64", "677 89 76 44", "677 90 01 57"]
+    },
+    "mini_health": {
+        "title": "MINSANTE",
+        "description": "Ministère de la Santé Publique",
+        "link": "https://www.minsante.cm/site/?q=fr"
+    },
+    "who": {
+        "title": "OMS",
+        "description": "Organisation Mondiale de la Santé",
+        "link": "https://www.who.int/fr/home"
+    },
+    "cdc": {
+        "title": "CDC",
+        "description": "Centres de Contrôle des Maladies",
+        "link": "https://www.cdc.gov/"
+    }
+}
