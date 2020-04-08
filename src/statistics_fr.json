@@ -1,0 +1,14 @@
+{
+    "title": "Statistiques",
+    "desctiption": "Ces statistiques concernent les cas en cours",
+    "cases": "Les cas",
+    "death": "Les morts",
+    "recovered": "Rétabli",
+    "todayDeath": "Les morts d'aujourd'hui",
+    "todayCases": "Les cas d'aujourd'hui",
+    "activecases": "Cas actifs",
+    "allcase": "Nombre total de cas",
+    "allRecovered": "Total récupéré",
+    "allDeath": "Décès total",
+    "allUpdated": "Mis à jour"
+}
