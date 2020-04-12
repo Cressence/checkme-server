@@ -33,7 +33,7 @@ app.get("/statistics", (req, res) => {
     if (req.query.lng == "fr") {
         res.send(statistics_fr);
     } else {
-        res.send(statistics_fr);
+        res.send(statistics_en);
     }
 });
 
