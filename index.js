@@ -9,6 +9,7 @@ const help_en = require('./src/help_en.json');
 const help_fr = require('./src/help_fr.json');
 const statistics_en = require('./src/statistics_en.json');
 const statistics_fr = require('./src/statistics_fr.json');
+const deseases = require('./src/diseases.json');
 
 // serve home screen data
 app.get("/home", (req, res) => {
@@ -34,6 +35,13 @@ app.get("/statistics", (req, res) => {
         res.send(statistics_fr);
     } else {
         res.send(statistics_en);
+    }
+});
+
+// serve deseases data
+app.get("/deseases", (req, res) => {
+    if (req.query.lng == "en") {
+        res.send(deseases);
     }
 });
 
