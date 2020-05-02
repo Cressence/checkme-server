@@ -39,7 +39,7 @@ app.get("/statistics", (req, res) => {
 });
 
 // serve deseases data
-app.get("/deseases", (req, res) => {
+app.get("/diseases", (req, res) => {
     if (req.query.lng == "en") {
         res.send(deseases);
     }
